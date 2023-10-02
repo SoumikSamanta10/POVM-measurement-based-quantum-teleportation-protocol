@@ -1,6 +1,5 @@
-# **POVM-measurement-based-quantum-teleportation-protocol**
+# **POVM measurement based quantum teleportation protocol**
 ## **Summer Internship, IISER, Kolkata** 
-### September 23rd
 
 **Supervisor:** [Prasanta K. Panigrahi](https://scholar.google.co.in/citations?user=sNq6fwwAAAAJ&hl=en)
 
@@ -15,8 +14,7 @@ In quantum mechanics poaitive operator-valued measures (POVM) describribe the mo
 2) We simulated a general single qubit two and three elements POVM on a circuit based quantum computer.
 3) We implemented POVM measurement on quantum information splitting and calculated the fidelity.
 4) We generalized this in POVM measurement based quantum teleportation portocol.
-5) We also address the questions how to maximize the information gain, expected average of the values of the recieved information (this includes the possibility that some type of information never recieved).
-6) Even a measurement fails to identify with certainty a information, it is still usally possible to artibute to the observer aquaires at least some mutual information
+5) We also address the questions how to maximize the information gain, expected average of the values of the recieved information (this includes the possibility that some type of information never recieved). Even a measurement fails to identify with certainty a information, it is still usally possible to artibute to the observer aquaires at least some mutual information.
 7) We discuss the extansion of this work to space with more than three dimension.
 
 ## **Code Repo Descriptions:**
