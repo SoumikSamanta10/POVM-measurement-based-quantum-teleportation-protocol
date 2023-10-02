@@ -18,11 +18,9 @@ In quantum mechanics poaitive operator-valued measures (POVM) describribe the mo
 7) We discuss the extansion of this work to space with more than three dimension.
 
 ## **Code Repo Descriptions:**
-1) Folder overlap_vs_HS_cost has code for the comparision between the optimization of the Hilbert-Schmidt cost function and the optimization of the overlap. These codes are used in the analysis presented in Sec. (III) of the report.
-2) Folder random_embedding_circuits has code for the random variational embedding circuits that we have presented in Sec. (IV) of the report. These codes are used to generate the plots shown in Fig. (3) and Fig. (4) of the report.
-3) Folder risk_function/2d_data has code for the analysis of the risk function presented in Sec. (II) of the report. There is also a code for generating a data set shown in Fig. (1) of the report. 
-4) Folder Fourier_analysis/1d-QAOA-Fourier has code for performing a Pauli decomposition of the output of a single-wire embedded circuit. See, for e.g., Eqs. (2.3) and (2.4) of the report. 
-5) Folder Simulation_of_Variational_Circuits has code for implementing and comparing different variational circuit structures, varying in types of gates, circuit depth, number of qubits, as an embedding circuit for data classification problem.
+1) Folder Simulation of POVM has code for simulation two and three element POVM. These codes are used in the analysis presented in Sec. (III) of the report.
+2) Folder QIS using 5-qubit cluster state has code for the Quantum information splitting circuits using 5-qubit cluster state that we have presented in Sec. (IV) of the report. These codes contain genaration of cluster state and fidelity calculation without using POVM. These codes are used to generate the plots shown in Fig. (3) and Fig. (4) of the report.
+3) Folder Implementation of POVM on QIS has code for the analysis of POVM on Quantum information splitting presented in Sec. (II) of the report. There is also a code for generating a data set shown in Fig. (1) of the report. 
 
 ## **References:**
 
