@@ -18,9 +18,9 @@ In quantum mechanics poaitive operator-valued measures (POVM) describribe the mo
 7) Discuss the extansion of this work to space with more than three dimension.
 
 ## **Code Repo Descriptions:**
-1) Folder Simulation of POVM has code for simulation two and three element POVM. These codes are used in the analysis presented in Sec. (III) of the report.
-2) Folder QIS using 5-qubit cluster state has code for the Quantum information splitting circuits using 5-qubit cluster state that we have presented in Sec. (IV) of the report. These codes contain genaration of cluster state and fidelity calculation without using POVM. These codes are used to generate the plots shown in Fig. (3) and Fig. (4) of the report.
-3) Folder Implementation of POVM on QIS has code for the analysis of POVM on Quantum information splitting presented in Sec. (II) of the report. There is also a code for generating a data set shown in Fig. (1) of the report. 
+1) Folder Simulation of POVM has code for simulation two and three element POVM. 
+2) Folder QIS using 5-qubit cluster state has code for the Quantum information splitting circuits using 5-qubit cluster state. These codes contain genaration of cluster state and fidelity calculation without using POVM. 
+3) Folder Implementation of POVM on QIS has code for the analysis of POVM on Quantum information splitting.
 
 ## **References:**
 
