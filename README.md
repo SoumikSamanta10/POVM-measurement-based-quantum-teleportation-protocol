@@ -3,7 +3,7 @@
 
 **Supervisor:** [Prasanta K. Panigrahi](https://scholar.google.co.in/citations?user=sNq6fwwAAAAJ&hl=en)
 
-The project [report]() in the folder `Report'.
+
 
 ## **Project Description:**
 
